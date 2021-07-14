@@ -1,35 +1,19 @@
 # Notlar
+
 Burada ikinci aşama notlarına yer verilmiştir.
 
-## Usaco
-https://train.usaco.org/
-
 ## Codeforces
+
 https://codeforces.com/
 
-## Hackerrank
-https://www.hackerrank.com/dashboard
+## Usaco
 
-## GFG Youtube
-https://www.youtube.com/c/GeeksforGeeksVideos/playlists?view=1&flow=grid
+https://train.usaco.org/
 
-## GFG Algorithms
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
+## Uva Online Judge
 
-## Sphere Online Judge
-https://www.spoj.com/
+https://onlinejudge.org/
 
-## Github
-https://github.com/
+## CSES
 
-## Atcoder
-https://atcoder.jp/
-
-## Codechef
-https://www.codechef.com/#
-
-## Code Jam
-https://codingcompetitions.withgoogle.com/codejam/archive
-
-## Kick Start
-https://codingcompetitions.withgoogle.com/kickstart/archive
+https://cses.fi/problemset/
